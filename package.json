@@ -1,0 +1,23 @@
+{
+  "name": "eatdaburger",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expresss": "0.0.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scott7710/burger.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Scott7710/burger/issues"
+  },
+  "homepage": "https://github.com/Scott7710/burger#readme",
+  "description": ""
+}
